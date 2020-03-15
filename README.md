@@ -1,0 +1,1 @@
+This is DearFriend's first git project!
